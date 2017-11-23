@@ -1,3 +1,3 @@
-# HackerRank: https://www.hackerrank.com
+# Codility: https://codility.com/programmers/
 
-In this repository, I will be adding my personal solutions for hackerrank challenges that I find interesting and rated 'Hard'.
+In this repository, I will be adding my personal solutions for codility lessons and challenges.
